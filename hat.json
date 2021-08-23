@@ -1,12 +1,12 @@
         [
             {
-                "uuid": "fef9df69-c8af-46e8-bca0-b80afa5a6142",
+                "uuid": "215a43d6-54ff-41d8-8e0e-ff9e9d4678d3",
                 "example-boolean-key": "true",
                 "example-string-key": "Ikr?",
                 "example-int-key": "1234"
             },
             {
-                "uuid": "fef9df69c8af46e8bca0b80afa5a6142",
+                "uuid": "215a43d654ff41d88e0eff9e9d4678d3",
                 "example-boolean-key2": "true",
                 "example-string-key2": "Woooooah! No one will have carrot!",
                 "example-int-key2": "4321"
