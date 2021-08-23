@@ -1,14 +1,22 @@
-        [
-            {
-                "uuid": "215a43d6-54ff-41d8-8e0e-ff9e9d4678d3",
-                "example-boolean-key": "true",
-                "example-string-key": "Ikr?",
-                "example-int-key": "1234"
-            },
-            {
-                "uuid": "215a43d654ff41d88e0eff9e9d4678d3",
-                "example-boolean-key2": "true",
-                "example-string-key2": "Woooooah! No one will have carrot!",
-                "example-int-key2": "4321"
-            }
-        ]
+[
+{
+"name": "irewinasaleti",
+"uuid": "215a43d6-54ff-41d8-8e0e-ff9e9d4678d3",
+"enabled": "true",
+"cape-style": "",
+"cape-enabled": "true",
+"hat-enabled": "false",
+"hat-r": "255",
+"hat-g": "0",
+"hat-b": "0",
+"wings-enabled": "true",
+"wings-r": "100.1F",
+"wings-g": "0.1F",
+"wings-b": "0.1F",
+"glasses-enabled":"true",
+"eastereggs-enabled":"true",
+"susanoo-enabled":"true",
+"headset-enabled":"true",
+"fez-enabled":"true"
+}
+]
